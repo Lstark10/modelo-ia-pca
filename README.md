@@ -39,7 +39,7 @@ O dataset contém informações socioeconômicas de diversos países com as segu
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 3.12**
 - **Pandas**: Manipulação e análise de dados
 - **NumPy**: Operações numéricas
 - **Scikit-learn**: Implementação do PCA e pré-processamento
@@ -61,10 +61,11 @@ pca/
 ```
 
 ## 🚀 Como Executar o Projeto
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### 1. Pré-requisitos
 
-- Python 3.7+
+- Python 3.12+
 - Pip (gerenciador de pacotes Python)
 
 ### 2. Instalação
